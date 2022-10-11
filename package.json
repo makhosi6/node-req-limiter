@@ -1,0 +1,17 @@
+{
+  "name": "server-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jwerre/rate-limit-redis": "^2.0.0",
+    "@two/rate-limit-redis": "file:../rate-limit-redis",
+    "rate-limit-redis": "^3.0.1",
+    "redis": "^4.3.1"
+  }
+}
