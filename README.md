@@ -1,2 +1,2 @@
 # node-req-limiter
-- just testing diffent node/express rate limiter packages.
+- Just testing different node/express rate limiter packages, for my upcoming project.
